@@ -66,4 +66,4 @@ def download_pdf(ip):
     )
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    
